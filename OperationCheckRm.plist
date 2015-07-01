@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://113.105.223.78/rm_ipa/Operation.ipa</string>
+					<string>http://121.41.89.109:8442/ios/Operation_rm.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,16 +19,9 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://113.105.223.78/rm_ipa/icon_512.png</string>
+					<string>http://121.41.89.109:8442/ios/operation.png</string>
 				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>needs-shine</key>
-					<false/>
-					<key>url</key>
-					<string>http://113.105.223.78/rm_ipa/icon_57.png</string>
-				</dict>
+			
 			</array>
 			<key>metadata</key>
 			<dict>
